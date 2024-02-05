@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  *
- * @author smoul
+ * @author Robin Dupuis
  */
 public class Circle2D {
 
